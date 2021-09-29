@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
-
+  //ciao
   background("pink");
 }
 
